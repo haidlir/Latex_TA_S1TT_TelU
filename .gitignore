@@ -1,0 +1,9 @@
+*.iot
+*.aux
+*.toc
+*.lof
+*.log
+*.lot
+*.out
+*.gz
+
