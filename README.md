@@ -5,6 +5,6 @@ Template utama didapat dari [Erik Dominikus](https://github.com/edom/uistyle). P
 
 Lisensi : [Attribution-NonCommercial-ShareAlike 1.0](http://creativecommons.org/licenses/by-nc-sa/1.0/legalcode), mengikuti lisensi asal.
 
-Petunjuk penggunaan, dapat dilihat di dalam _main.pdf_ atau di [link ini](#).
+Petunjuk penggunaan, dapat dilihat di dalam _main.pdf_ atau di [link ini](http://haidlir.github.io/blog/projects-related/Latex-TA-TT-HowTo/).
 
-Bagaimana cara meng-install Latex dan text editor-nya dapat dibaca pada [link ini](#).
+Bagaimana cara meng-install Latex dan text editor-nya dapat dibaca pada [link ini](http://haidlir.github.io/blog/projects-related/Latex-TA-TT-HowTo/#install).
